@@ -1,5 +1,5 @@
 # computer-vision
-##with MATLAB
+## with MATLAB
 1. affine mapping in image registration
 2. image histogram, equalization, local equalization
 3. filters (box filter, median filter, and etc)
